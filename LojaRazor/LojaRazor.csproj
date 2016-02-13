@@ -144,6 +144,7 @@
       <DependentUpon>Mensagens.resx</DependentUpon>
     </Compile>
     <Compile Include="Models\Categoria.cs" />
+    <Compile Include="Models\Contato.cs" />
     <Compile Include="Models\Departamento.cs" />
     <Compile Include="Models\Produto.cs" />
     <Compile Include="Models\Usuario.cs" />

@@ -31,6 +31,7 @@ C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.pdb
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\LojaRazor.dll.config
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\LojaRazor.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\LojaRazor.pdb
+C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\en-us\LojaRazor.resources.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\Antlr3.Runtime.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\EntityFramework.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\Microsoft.Web.Infrastructure.dll
@@ -56,11 +57,9 @@ C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\Sys
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\System.Web.WebPages.xml
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.resources
+C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.en-us.resources
+C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.csproj.GenerateResource.Cache
+C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\en-us\LojaRazor.resources.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.dll
 C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.pdb
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.csprojResolveAssemblyReference.cache
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.resources
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.csproj.GenerateResource.Cache
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\bin\en-us\LojaRazor.resources.dll
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.en-us.resources
-C:\Users\Luis Mauro\Documents\Visual Studio 2015\Projects\Loja\LojaRazor\obj\Debug\en-us\LojaRazor.resources.dll
